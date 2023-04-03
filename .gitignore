@@ -1,0 +1,4 @@
+events
+node_modules
+.env
+config.json
